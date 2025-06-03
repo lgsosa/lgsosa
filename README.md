@@ -18,8 +18,8 @@
 <img align="right" width="55%" alt="Git header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎓 Soy estudiante de Ingeniería en Informática
-- 🌱 Actualmente aprendiendo Git, GitHub y Java
-- 💡 Me interesa el análisis funcional, análisis computacional y de flujos
+- 🌱 Actualmente aprendiendo Github, Java, Angular
+- 💡 Me interesa el análisis funcional y de flujos
 - 🐍 Trabajo principalmente con Python, SQL y Git
 - 🎨 También tengo conocimientos de Figma
 - 🌻 Dato curioso: me encantan los girasoles 🌻
