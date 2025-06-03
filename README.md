@@ -5,13 +5,6 @@
 
 <h1 align="center"> ¡Hola <Desarrolladores />! 👋 </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lgsosa.lgsosa" alt="Contador de visitas">
-  <a href="https://github.com/lgsosa">
-    <img src="https://img.shields.io/github/followers/lgsosa?label=Seguir&style=social" alt="Seguidores">
-  </a>
-</p>
-
 ---
 
 ### 🙋‍♀️ Sobre mí
