@@ -43,7 +43,7 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
 </a>
 <a href="mailto:lucianagsosa03@gmail.com">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/email.svg" alt="Email">
+  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email">
 </a>
 
 ---
