@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/lgsosa/lgsosa/main/pixel_art_profile_under_1MB.png" alt="Avatar de perfil">
+  <img width="200" src="https://github.com/lgsosa/lgsosa/raw/main/pixel_art_profile_under_1MB.png" alt="Avatar de perfil">
 </p>
+
 
 <h1 align="center"> ¡Hola <Desarrolladores />! 👋 </h1>
 
