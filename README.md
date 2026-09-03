@@ -1,56 +1,78 @@
 <p align="center">
-  <img width="200" src="https://github.com/lgsosa/lgsosa/raw/main/pixel_art_profile_under_1MB.png" alt="Avatar de perfil">
+  <img width="180" src="https://github.com/lgsosa/lgsosa/raw/main/pixel_art_profile_under_1MB.png" alt="Luciana Sosa avatar">
 </p>
 
+<h1 align="center">Luciana Sosa 👩‍💻</h1>
+<p align="center"><strong>Computer Engineering student · Junior Cloud / DevOps / Backend profile</strong></p>
 
-<h1 align="center"> ¡Hola <Desarrolladores />! 👋 </h1>
-
----
-
-### 🙋‍♀️ Sobre mí
-
-<img align="right" width="55%" alt="Git header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🎓 Soy estudiante de Ingeniería en Informática
-- 🌱 Actualmente aprendiendo Git, GitHub, Java y Angular
-- 💡 Me interesa el análisis funcional y de flujos
-- 🐍 Trabajo principalmente con Python, SQL y Git
-- 🎨 También tengo conocimientos de Figma
-- 🌻 Dato curioso: me encantan los girasoles 🌻
+<p align="center">
+  Mendoza, Argentina · Open to remote opportunities
+</p>
 
 ---
 
-### 🛠 Tecnologías que uso
+## About me
 
-<a href="https://github.com/lgsosa?tab=repositories&q=&type=&language=python">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-</a>
-<a href="#">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" alt="SQL">
-</a>
-<a href="#">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
-</a>
-<a href="#">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="Figma">
-</a>
+I'm a Computer Engineering student focused on building a strong technical profile in software, systems and cloud technologies.
 
----
+- 🎓 Studying **Ingeniería en Informática**
+- 🐳 Practical academic experience with **Docker** and containerized applications
+- ☸️ Academic exposure to **Kubernetes** and orchestration concepts
+- 🔁 Experience using **CI/CD** practices in university projects, including CircleCI
+- 🐍 Programming experience with **Python** and SQL
+- 🌐 Experience building full-stack academic projects
+- 🐧 Comfortable working with **Linux/Unix**, Git and GitHub
+- ☁️ Currently strengthening **Microsoft Azure, Terraform and Cloud/DevOps practices**
+- 🇬🇧 English: **B2 / conversational professional level**
 
-### 🔗 Contacto
-
-<a href="https://github.com/lgsosa">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
-</a>
-<a href="mailto:lucianagsosa03@gmail.com">
-  <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email">
-</a>
+I'm especially interested in entry-level opportunities where I can grow in **Cloud, DevOps, Systems, Technical Support or Backend Engineering** while contributing with a strong learning mindset and hands-on project experience.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## Technical skills
 
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=lgsosa&show_icons=true&theme=tokyonight) | ![Racha](https://github-readme-streak-stats.herokuapp.com/?user=lgsosa&theme=tokyonight) |
-|---|---|
-| ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lgsosa&layout=compact&theme=tokyonight) | ![Estrellas](https://github-readme-stats.vercel.app/api?username=lgsosa&show_icons=true&hide_rank=true&theme=tokyonight) |
+### Cloud & DevOps
+`Docker` · `Kubernetes` · `CI/CD` · `CircleCI` · `Linux` · `Git` · `GitHub`
 
+Currently learning and strengthening: `Microsoft Azure` · `Terraform` · `Cloud Infrastructure`
+
+### Development
+`Python` · `SQL` · `Java` · `HTML/CSS` · `Backend fundamentals` · `REST concepts`
+
+### Tools & Practices
+`Git workflows` · `Testing` · `Code quality` · `Figma` · `Agile / teamwork`
+
+---
+
+## Featured projects
+
+### ♟️ [Chess in Python](https://github.com/lgsosa/Ajedrez)
+Python chess project with **Docker**, automated testing, **CircleCI**, Code Climate and coverage tooling. This project reflects my experience working with containerization, CI pipelines and software quality practices.
+
+### 📚 [Biblioteca Web](https://github.com/lgsosa/Biblioteca-Web)
+Full-stack academic web project organized into frontend, backend, database and design layers. Includes Python backend components, authentication-related code and interface design work.
+
+### 🐧 [Computación II](https://github.com/lgsosa/ComputacionII)
+University work focused on **Unix/Linux, Git, Python, systems concepts and software development practices**.
+
+---
+
+## What I'm working on now
+
+- Deepening my knowledge of **Microsoft Azure**
+- Learning **Infrastructure as Code with Terraform**
+- Improving my understanding of **CI/CD, cloud deployments and Kubernetes**
+- Building a portfolio oriented toward **Junior DevOps & Cloud Engineer** roles
+
+---
+
+## Contact
+
+- GitHub: [@lgsosa](https://github.com/lgsosa)
+- Email: [lucianagsosa03@gmail.com](mailto:lucianagsosa03@gmail.com)
+
+---
+
+<p align="center">
+  <i>Always learning, building and looking for the next technical challenge.</i>
+</p>
